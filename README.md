@@ -1,4 +1,5 @@
 ### Hi there 👋
+Graduate student at Kyushu University
 
 <!--
 **ttomo3535/ttomo3535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
