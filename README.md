@@ -2,7 +2,7 @@
 
 ## About Me:
 I am a graduate student at **Kyushu University, Fukuoka, Japan.**  
-Researching the relationship between gentetic variations and evolutionary procesees at [Evolutionary genetics lab](http://www.biology.kyushu-u.ac.jp/~kteshima/)
+Researching the relationship between genetic variations and evolutionary procesees at [Evolutionary genetics lab](http://www.biology.kyushu-u.ac.jp/~kteshima/)
 
 ## How to reach me:
 tanaka35t@gmail.com  
