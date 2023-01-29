@@ -1,5 +1,6 @@
 ### Hi there 👋
 Graduate student at Kyushu University
+Researching the relationship between gentetic variations and evolitionary procesees at [Evolutionary genetics lab](http://www.biology.kyushu-u.ac.jp/~kteshima/)
 
 <!--
 **ttomo3535/ttomo3535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
