@@ -1,5 +1,5 @@
-### Hi there 👋
-Graduate student at Kyushu University
+
+Graduate student at Kyushu University  
 Researching the relationship between gentetic variations and evolitionary procesees at [Evolutionary genetics lab](http://www.biology.kyushu-u.ac.jp/~kteshima/)
 
 <!--
