@@ -4,6 +4,10 @@
 I am a graduate student at **Kyushu University, Fukuoka, Japan.**  
 Researching the relationship between genetic variations and evolutionary procesees at [Evolutionary genetics lab](http://www.biology.kyushu-u.ac.jp/~kteshima/)
 
+## Presentations and Publications:
+Tanaka, T., Hayakawa, T., Teshima, M, K. (2023). Power of neutrality tests for detecting natural selection. Manuscript submitted for publication.
+”Assessingthepoweroftestsfordetectingnaturalselection”, the 94th Annual Meeting of the Genetics Society of Japan, Hokkiado University, September 2022
+
 ## How to reach me:
 tanaka35t@gmail.com  
 [LinkedIn](www.linkedin.com/in/ttomo3535)
