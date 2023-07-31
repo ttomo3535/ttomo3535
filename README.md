@@ -6,7 +6,7 @@ Researching the relationship between genetic variations and evolutionary procese
 
 ## Presentations and Publications:
 ”Assessing the power of tests for detecting natural selection”, the 94th Annual Meeting of the Genetics Society of Japan, Hokkiado University, September 2022  
-"Tanaka, Hayakawa and Teshima. 2023. Power of neutrality tests for detecting natural selection. [G3: Genes|Genomes|Genetics, jkad161](https://doi.org/10.1093/g3journal/jkad161)"  
+Tanaka, Hayakawa and Teshima. 2023. Power of neutrality tests for detecting natural selection. [G3: Genes|Genomes|Genetics, jkad161](https://doi.org/10.1093/g3journal/jkad161)  
 
 
 
