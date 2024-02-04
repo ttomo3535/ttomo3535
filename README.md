@@ -1,4 +1,4 @@
-# Hi, I'm Tomo:wave:
+# Hi, I'm Tomo✋
 
 ## About Me:
 I am a graduate student at **Kyushu University, Fukuoka, Japan.**  
